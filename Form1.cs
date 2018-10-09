@@ -18,9 +18,13 @@ namespace DemoQLcafe
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int a = 2;
-            int b = 5;
-            int c = a + b;
+            if (txtA.Text != String.Empty)
+            {
+                double a = double.Parse(txtA.Text);
+                double b = double.Parse(txtB.Text);
+                double c = a + b;
+                txtKetQua.Text = c.ToString();
+            }
         }
     }
 }
