@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoQLcafe", "DemoQLcafe\DemoQLcafe.csproj", "{69CCA865-0C83-4E3A-9706-77178C4E7965}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoQLcafe", "DemoQLcafe.csproj", "{69CCA865-0C83-4E3A-9706-77178C4E7965}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
