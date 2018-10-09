@@ -15,5 +15,12 @@ namespace DemoQLcafe
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int a = 2;
+            int b = 5;
+            int c = a + b;
+        }
     }
 }
